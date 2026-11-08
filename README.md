@@ -113,4 +113,3 @@ The last row shows a known weakness: a very short job description can give a hig
 ## Author
 
 Mohammed Mustafa Ali - [GitHub](https://github.com/Mustafaali04)
-Demo Link - https://ai-resume-job-matching-system-hya4iomlvvyjeskrntdn4z.streamlit.app/
