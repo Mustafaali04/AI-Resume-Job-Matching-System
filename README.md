@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner.svg" alt="AI Resume and Job Matcher: upload, extract, skills, embed, score, improve" width="100%">
+</p>
+
 # AI Resume & Job Matching System
 
 A web app that compares a resume (PDF) with a job description and shows how well they match: an overall score, the skills the candidate has, the skills that are missing, and tips to improve.
@@ -8,7 +12,8 @@ Built with Python, Streamlit, PyMuPDF and Sentence Transformers. The core matchi
 
 - Upload a resume as a PDF and paste a job description
 - Text extraction and cleaning (including fixing words split across lines)
-- Skill detection against a list of about 300 skills
+- Skill detection against a list of about 270
+skills
 - Semantic similarity between resume and job description
 - Overall match score, skill coverage and meaning match
 - Matched and missing skills
@@ -68,6 +73,10 @@ OPENROUTER_API_KEY=your_key_here
 ```
 
 Then tick **Use AI for improvement tips** in the app. It uses OpenRouter's free model router, so the model, and the quality of the tips, can change between runs. Only the job title and the missing skill names are sent, never the resume text. If the call fails, the app uses the built-in tips. The `.env` file is ignored by Git.
+
+<p align="center">
+  <img src="docs/banner2.svg" alt="Example result: 67 percent match with matched and missing skills" width="100%">
+</p>
 
 ## Example runs
 
