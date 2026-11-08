@@ -3,6 +3,7 @@
 </p>
 
 # AI Resume & Job Matching System
+**Live demo:** https://ai-resume-job-matching-system-hya4iomlvvyjeskrntdn4z.streamlit.app/
 
 A web app that compares a resume (PDF) with a job description and shows how well they match: an overall score, the skills the candidate has, the skills that are missing, and tips to improve.
 
