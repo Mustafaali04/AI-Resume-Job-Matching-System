@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="AI Resume and Job Matcher: example result with a 67 percent score, matched skills and missing skills">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4F46E5"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="298" rx="24" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+
+  <text x="56" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3" fill="#4F46E5">RESUME &#215; JOB MATCHING</text>
+  <text x="56" y="152" font-family="Segoe UI, Arial, sans-serif" font-size="50" font-weight="700" fill="#0F172A">AI Resume &amp;</text>
+  <text x="56" y="206" font-family="Segoe UI, Arial, sans-serif" font-size="50" font-weight="700" fill="#0F172A">Job Matcher</text>
+  <text x="56" y="244" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#475569">Match score &#183; missing skills &#183; improvement tips</text>
+
+  <rect x="640" y="36" width="512" height="228" rx="20" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+
+  <circle cx="740" cy="140" r="60" fill="none" stroke="#E2E8F0" stroke-width="14"/>
+  <circle cx="740" cy="140" r="60" fill="none" stroke="url(#accent)" stroke-width="14" stroke-linecap="round" stroke-dasharray="252.6 377" transform="rotate(-90 740 140)"/>
+  <text x="740" y="150" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#0F172A">67%</text>
+  <text x="740" y="172" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#64748B">match</text>
+
+  <text x="830" y="86" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#334155">Skills you have</text>
+  <rect x="830" y="98" width="72" height="28" rx="14" fill="#D1FAE5" stroke="#10B981"/>
+  <text x="866" y="117" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#047857">python</text>
+  <rect x="910" y="98" width="50" height="28" rx="14" fill="#D1FAE5" stroke="#10B981"/>
+  <text x="935" y="117" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#047857">git</text>
+  <rect x="968" y="98" width="66" height="28" rx="14" fill="#D1FAE5" stroke="#10B981"/>
+  <text x="1001" y="117" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#047857">mysql</text>
+  <rect x="1042" y="98" width="50" height="28" rx="14" fill="#D1FAE5" stroke="#10B981"/>
+  <text x="1067" y="117" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#047857">sql</text>
+
+  <text x="830" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#334155">Missing skills</text>
+  <rect x="830" y="172" width="76" height="28" rx="14" fill="#FEE2E2" stroke="#EF4444"/>
+  <text x="868" y="191" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#B91C1C">pandas</text>
+  <rect x="914" y="172" width="70" height="28" rx="14" fill="#FEE2E2" stroke="#EF4444"/>
+  <text x="949" y="191" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#B91C1C">numpy</text>
+  <rect x="992" y="172" width="82" height="28" rx="14" fill="#FEE2E2" stroke="#EF4444"/>
+  <text x="1033" y="191" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#B91C1C">pytorch</text>
+
+  <text x="668" y="248" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#94A3B8">Example result</text>
+</svg>
