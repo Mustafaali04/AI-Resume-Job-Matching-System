@@ -20,6 +20,10 @@ skills
 - Improvement tips: built-in tips by default, optional AI-written tips
 - Warnings for a PDF that does not look like a resume, a scanned PDF, and a job description with few or no known skills
 
+## Screenshot
+
+![Screenshot of the app showing a 67% match, matched skills and missing skills](docs/screenshot.png)
+
 ## How it works
 
 1. **Extract** the text of the uploaded PDF with PyMuPDF.
