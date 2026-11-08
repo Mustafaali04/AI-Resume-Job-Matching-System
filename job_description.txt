@@ -1,0 +1,15 @@
+Machine Learning Intern
+
+We are looking for a Machine Learning Intern to join our data team in Hyderabad. You will work with Python to clean data, build and evaluate machine learning models, and present results to the team.
+
+Requirements:
+Strong knowledge of Python and basic data structures and algorithms.
+Understanding of regression, classification and model evaluation.
+Experience with pandas, numpy and scikit-learn.
+Familiarity with SQL databases such as MySQL.
+Good communication skills and ability to work in a team.
+Knowledge of Git and GitHub.
+
+Nice to have:
+Experience with deep learning frameworks such as TensorFlow or PyTorch.
+Basic knowledge of cloud platforms.
